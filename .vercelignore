@@ -1,4 +1,4 @@
 # Ignore everything (folders and files) on root only
 /*
-!images/favicon.ico
+!favicon.ico
 !*.html
