@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Header.png?raw=true" alt="Logotipo de Zoom-calendar"/>
+  <img src="images/header.png?raw=true" alt="Logotipo de Zoom-calendar"/>
 </p>
 
 ---
